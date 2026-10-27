@@ -1,2 +1,2 @@
 # FreeQueens
-Free Queens game
+Free Queens Game
